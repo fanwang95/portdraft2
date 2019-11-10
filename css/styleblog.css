@@ -101,7 +101,8 @@ img {
   padding: 24px;
 }
 h1{
-  font-size: 24px;
+  font-size: 20px;
+  font-weight:400;
   opacity: 70%;
 }
 .column p{
