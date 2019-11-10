@@ -101,7 +101,7 @@ img {
   padding: 24px;
 }
 h1{
-  font-size: 20px;
+  font-size: 24px;
   font-weight:400;
   opacity: 70%;
 }
@@ -159,7 +159,7 @@ h1{
     float: left;
     width: 33%;
   }
-  h3{
+  h1{
     font-size: 28px;
     font-weight: 540;
   }
